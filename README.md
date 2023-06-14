@@ -6,15 +6,15 @@ https://www.youtube.com/watch?v=UVQLtsRR11U
 
 To paste sudoku puzzles from clipboard, you have to match the format below, where 0's indicate an unfilled square. 
 
-0 0 0 7 0 4 0 0 5
-0 2 0 0 1 0 0 7 0
-0 0 0 0 8 0 0 0 2
-0 9 0 0 0 6 2 5 0
-6 0 0 0 7 0 0 0 8
-0 5 3 2 0 0 0 1 0
-4 0 0 0 9 0 0 0 0
-0 3 0 0 6 0 0 9 0
-2 0 0 4 0 7 0 0 0
+0 0 0 7 0 4 0 0 5<br />
+0 2 0 0 1 0 0 7 0<br />
+0 0 0 0 8 0 0 0 2<br />
+0 9 0 0 0 6 2 5 0<br />
+6 0 0 0 7 0 0 0 8<br />
+0 5 3 2 0 0 0 1 0<br />
+4 0 0 0 9 0 0 0 0<br />
+0 3 0 0 6 0 0 9 0<br />
+2 0 0 4 0 7 0 0 0<br />
 
 # Controls:
 Hold mouse and look around
